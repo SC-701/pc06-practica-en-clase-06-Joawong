@@ -18,7 +18,7 @@ BEGIN
 	-- SET NOCOUNT ON added to prevent extra result sets from
 	-- interfering with SELECT statements.
 	SET NOCOUNT ON;
-
+	--comentario cambiado AWB
     -- Insert statements for procedure here
 	BEGIN TRANSACTION
 		INSERT INTO [dbo].[Vehiculo]
